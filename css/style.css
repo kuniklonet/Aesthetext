@@ -13,3 +13,17 @@
 #copytext{
   display: none;
 }
+
+#play_logo{
+  position: fixed;
+  bottom: -5px;
+  right: 0px;
+}
+
+#play_img{
+  width:100px;
+}
+
+#play_img:hover{
+  width:180px;
+}
